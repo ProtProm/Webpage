@@ -1,0 +1,126 @@
+
+*{
+  margin: 8px;
+  border: black;
+}
+
+a:link {
+    color: #7C8B88;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:visited {
+    color: #7C8B88;
+    text-decoration: none;
+    text-align: center;
+}
+
+a:hover {
+    color: #441572;
+    text-align: center;
+}
+
+i{
+	margin: auto;
+	margin-right: 0;
+}
+
+p{
+	color: #7C8B88;
+	margin-left: 0;
+}
+
+.firstpage{
+  border-radius: 100px;
+  box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.19);
+  margin: 10%;
+  border: red;
+  padding-bottom: 2%;
+}
+
+  .corpus{
+  	display: -webkit-flex;
+  	display: flex;
+  }
+
+    .contact{
+    	width: 20%;
+    	margin: auto;
+    }
+
+    .image1{
+    	box-sizing: border-box;
+    	display: block;
+    	margin: auto;
+    	max-width: 50%;
+    }
+
+    .phone{
+    	display: -webkit-flex;
+    	display: flex;
+    	padding-right: 10%;
+    	margin: auto;
+    }
+
+    .location{
+      display: -webkit-flex;
+      display: flex;
+      padding-right: 10%;
+      margin: auto;
+    }
+
+    .number{
+      color: #7C8B88;
+      padding-bottom: 10%;
+    }
+
+  .image2{
+  	box-sizing: border-box;
+  	display: block;
+  	margin: 0 auto;
+  	max-width: 70%;
+  }
+
+  .anotherdes{
+  	display: -webkit-flex;
+  	display: flex;
+  	padding-left: 5%;
+  	padding-right: 5%;
+  	margin-right: auto;
+  	margin-left: auto;
+  	text-align: center;
+  	font-family: arial;
+  	color: #7C8B88;
+  }
+
+  	.Micropigmentacion{
+  		padding: 1%;
+  		box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.19);
+  		border-radius: 100px;
+  	}
+
+  	.PaulaGonzalez{
+  		padding: 1%;
+  		box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.19);
+  		border-radius: 100px;
+
+  	}
+
+  	.MasInformacion{
+  		padding: 1%;
+  		box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.19);
+  		border-radius: 100px;
+
+  	}
+  	.Album{
+  		padding: 1%;
+  		box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.19);
+  		border-radius: 100px;
+
+  	}
+  	.PreguntasFrecuentes{
+  		padding: 1%;
+  		box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 1px 10px 0 rgba(0, 0, 0, 0.19);
+  		border-radius: 100px;
+  }
